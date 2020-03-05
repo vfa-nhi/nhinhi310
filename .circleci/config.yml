@@ -5,7 +5,7 @@ jobs:
       - image: 7896/civ3-workspace:2.0
     steps:
       - checkout
-      - run: cp .env.example .env
+      # - run: cp .env.example .env
 
       # composer cache
       - restore_cache:
