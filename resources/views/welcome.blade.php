@@ -42,7 +42,7 @@
       <div class="container">
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/meomeo.jpg" alt="Image"/></a></div>
-          <div class="h2 title">Meo la Meo</div>
+          <div class="h2 title">Dom Dom</div>
           <p class="category text-white">Web Developer, Graphic Designer,  Photographer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
@@ -61,7 +61,7 @@
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
-            <p>Hello! I am Meo La Meo. Web Developer, Graphic Designer and Photographer.</p>
+            <p>Hello! I am Dom. Web Developer, Graphic Designer and Photographer.</p>
             <p>Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skills and experience. <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
           </div>
         </div>
@@ -74,7 +74,7 @@
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
-              <div class="col-sm-8">meomeo@omeo.com</div>
+              <div class="col-sm-8">Dom@meomeo.com</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
@@ -497,7 +497,7 @@
                     <p class="mb-0"><strong>Phone</strong></p>
                     <p class="pb-2">+1234-111-0011</p>
                     <p class="mb-0"><strong>Email</strong></p>
-                    <p>meomeo@omeo.com</p>
+                    <p>Dom@meomeo.com</p>
                   </div>
                 </div>
               </div>
