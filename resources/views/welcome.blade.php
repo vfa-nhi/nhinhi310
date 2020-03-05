@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Creative CV</title>
+    <title>Meomeomeo</title>
     <meta name="description" content="Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skils and experience."/>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -70,23 +70,23 @@
             <div class="h4 mt-0 title">Basic Information</div>
             <div class="row">
               <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
-              <div class="col-sm-8">24</div>
+              <div class="col-sm-8">2</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
-              <div class="col-sm-8">anthony@company.com</div>
+              <div class="col-sm-8">meomeo@omeo.com</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
-              <div class="col-sm-8">+1718-111-0011</div>
+              <div class="col-sm-8">+1234-111-0011</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
-              <div class="col-sm-8">140, City Center, New York, U.S.A</div>
+              <div class="col-sm-8">310, Cute City, Cat Kingdom</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
-              <div class="col-sm-8">English, German, French</div>
+              <div class="col-sm-8">Meo-list</div>
             </div>
           </div>
         </div>
@@ -493,11 +493,11 @@
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
-                    <p class="pb-2">140, City Center, New York, U.S.A</p>
+                    <p class="pb-2">310, Cute City, Cat Kingdom</p>
                     <p class="mb-0"><strong>Phone</strong></p>
-                    <p class="pb-2">+1718-111-0011</p>
+                    <p class="pb-2">+1234-111-0011</p>
                     <p class="mb-0"><strong>Email</strong></p>
-                    <p>anthony@company.com</p>
+                    <p>meomeo@omeo.com</p>
                   </div>
                 </div>
               </div>
