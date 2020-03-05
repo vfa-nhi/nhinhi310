@@ -28,12 +28,12 @@ jobs:
             if [[ true ]];  then
               curl -X POST -H "X-ChatWorkToken: $CHATWORK_TOKEN" -d \
                 "body=
-                Your have a success build !
+                [info][title]Your have a success build !(cracker)(cracker)(cracker)[/title]
                 - Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
                 - Author: $CIRCLE_USERNAME
                 - Branch: $CIRCLE_BRANCH
-                - Commit/pull request link: https://github.com/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/commit/$CIRCLE_SHA1
-                - Build link: https://circleci.com/gh/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_BUILD_NUM
+                - Website: https://nhinhi-310.herokuapp.com/
+                - Build link: https://circleci.com/gh/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_BUILD_NUM [/info]
                 " \
                 "https://api.chatwork.com/v2/rooms/$CHATWORK_ROOM/messages"
             fi
@@ -44,12 +44,12 @@ jobs:
             if [[ true ]];  then
               curl -X POST -H "X-ChatWorkToken: $CHATWORK_TOKEN" -d \
                 "body=
-                Your have a fail build !
+                [info][title]Your have a fail build !;( ;( ;([/title]
                 - Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
                 - Author: $CIRCLE_USERNAME
                 - Branch: $CIRCLE_BRANCH
-                - Commit/pull request link: https://github.com/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/commit/$CIRCLE_SHA1
-                - Build link: https://circleci.com/gh/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_BUILD_NUM
+                - Website: https://nhinhi-310.herokuapp.com/
+                - Build link: https://circleci.com/gh/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_BUILD_NUM [/info]
                 " \
                 "https://api.chatwork.com/v2/rooms/$CHATWORK_ROOM/messages"
             fi
