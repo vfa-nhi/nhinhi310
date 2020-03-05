@@ -27,8 +27,7 @@ jobs:
           command: |
             if [[ true ]];  then
               curl -X POST -H "X-ChatWorkToken: $CHATWORK_TOKEN" -d \
-                "body=
-                [info][title]Your have a success build !(cracker)(cracker)(cracker)[/title]- Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
+                "body=[info][title]Your have a success build !(cracker)(cracker)(cracker)[/title]- Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
                 - Author: $CIRCLE_USERNAME
                 - Branch: $CIRCLE_BRANCH
                 - Website: https://nhinhi-310.herokuapp.com/
@@ -42,8 +41,7 @@ jobs:
           command: |
             if [[ true ]];  then
               curl -X POST -H "X-ChatWorkToken: $CHATWORK_TOKEN" -d \
-                "body=
-                [info][title]Your have a fail build !;( ;( ;([/title]- Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
+                "body=[info][title]Your have a fail build !;( ;( ;([/title]- Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
                 - Author: $CIRCLE_USERNAME
                 - Branch: $CIRCLE_BRANCH
                 - Website: https://nhinhi-310.herokuapp.com/
