@@ -43,7 +43,7 @@
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/meomeo.jpg" alt="Image"/></a></div>
           <div class="h2 title">Dom Dom</div>
-          <p class="category text-white">Scottish Fold, Mackerel Tabby, Sleeping Child</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">Scottish Fold, Mackerel Tabby Cat, Cutest Sleeping Baby/p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
       <div class="section">
@@ -61,8 +61,8 @@
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
-            <p>Hello! I am Dom. Scottish Fold, Mackerel Tabby and Sleeping Child.</p>
-            <p>A tabby is any domestic cat (Felis catus) with an 'M' on its forehead, stripes by its eyes and across its cheeks, along its back, and around its legs and tail, and, differing by tabby type, characteristic striped, dotted, lined, flecked, banded or swirled patterns on the body—neck, shoulders, sides, flanks, chest and tummy.<a href="https://https://en.wikipedia.org/wiki/Tabby_cat/" target="_blank">Learn More</a></p>
+            <p>Hello! I am Dom. Scottish Fold, Mackerel Tabby Cat and Cutest Sleeping Child.</p>
+            <p>A tabby is any domestic cat (Felis catus) with an 'M' on its forehead, stripes by its eyes and across its cheeks, along its back, and around its legs and tail, and, differing by tabby type, characteristic striped, dotted, lined, flecked, banded or swirled patterns on the body—neck, shoulders, sides, flanks, chest and tummy. <a href="https://https://en.wikipedia.org/wiki/Tabby_cat/" target="_blank">Learn More</a></p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -74,7 +74,7 @@
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
-              <div class="col-sm-8">Dom@meomeo.com</div>
+              <div class="col-sm-8">dom@meomeo.com</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
@@ -497,7 +497,7 @@
                     <p class="mb-0"><strong>Phone</strong></p>
                     <p class="pb-2">+1234-111-0011</p>
                     <p class="mb-0"><strong>Email</strong></p>
-                    <p>Dom@meomeo.com</p>
+                    <p>dom@meomeo.com</p>
                   </div>
                 </div>
               </div>
