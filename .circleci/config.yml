@@ -26,6 +26,7 @@ jobs:
           when: on_success
           command: |
             if [[ true ]];  then
+              sleep 40
               curl -X POST -H "X-ChatWorkToken: $CHATWORK_TOKEN" -d \
                 "body=[info][title]Your have a success build !(cracker)(cracker)(cracker)[/title]- Repository name: $CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
                 - Author: $CIRCLE_USERNAME

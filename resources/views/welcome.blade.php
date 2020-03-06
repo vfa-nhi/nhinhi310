@@ -173,15 +173,15 @@
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Recent Project</div>
-                      <p>Web Development</p>
+                      <div class="h4">Morning Time</div>
+                      <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Startup Project</div>
-                      <p>Web Development</p>
+                      <div class="h4">Afternoon Time</div>
+                      <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
             </div>
@@ -189,15 +189,15 @@
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Food Order Project</div>
-                      <p>Web Development</p>
+                      <div class="h4">Evening Time</div>
+                      <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Web Advertising Project</div>
-                      <p>Web Development</p>
+                      <div class="h4">Night Time</div>
+                      <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
             </div>
