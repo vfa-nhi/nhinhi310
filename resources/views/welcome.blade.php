@@ -101,30 +101,30 @@
       <div class="card-body">
         <div class="row">
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Meow Meow</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Watching TV</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">65%</span>
               </div>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">JavaScript</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Physical Activities</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">SASS</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Food Hunting</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
               </div>
@@ -133,16 +133,16 @@
         </div>
         <div class="row">
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Bootstrap</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Hide and Seek</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Photoshop</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">Sleep</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70%</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">100%</span>
               </div>
             </div>
           </div>
@@ -180,7 +180,7 @@
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Afternoon Time</div>
+                      <div class="h4">Evening Time</div>
                       <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
@@ -189,7 +189,7 @@
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Evening Time</div>
+                      <div class="h4">Afternoon Time</div>
                       <p>♡♡♡</p>
                     </figcaption>
                   </figure></a></div>
